@@ -1,0 +1,3 @@
+conda update -n base -c defaults conda
+
+activate the env : conda activate venv/
